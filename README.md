@@ -8,7 +8,7 @@
 
 Desafio do curso explore da Rocketseat🚀.
 
-[📎 Clique aqui para acessar](https://gabrielobatocabral.github.io/listagem-marvel/)
+[📎 Clique aqui para acessar](https://gabrielobatocabral.github.io/Desafio_avancado-Recriando_layout/)
 
 ## 🛠️ Tecnologias
 
